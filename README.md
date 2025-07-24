@@ -20,7 +20,7 @@ The dashboard provides insights into:
 ![Dashboard Page 1](images/Dashboard.png)
 
 #### 📄 Page 2 – Forecast and Delivery Insights
-![Dashboard Page 2](images/Forecasting_Dashboard .png)
+![Dashboard Page 2](images/Forecasting_Dashboard.png)
 
 
 ## 🛠️ Tools & Technologies
